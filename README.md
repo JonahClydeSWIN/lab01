@@ -2,4 +2,4 @@
 
 Live Server, Check the website on:
 
-www.jonahclydeswin.github.io/lab01
+https://jonahclydeswin.github.io/lab01
